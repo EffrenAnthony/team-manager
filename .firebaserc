@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "team-manager-8d9f3": {
+      "hosting": {
+        "team-manager": [
+          "team-manager-8d9f3"
+        ]
+      }
+    }
+  }
+}
