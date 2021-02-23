@@ -24,7 +24,7 @@ export enum SquadNumber {
   leftWinger = 11
 }
 
-export enum Country {
+export enum Country{
   Afghanistan = 'AF',
   AlandIslands = 'AX',
   Albania = 'AL',

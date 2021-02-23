@@ -15,7 +15,7 @@
         <tr *ngFor='let team of (teams$ | async)'>
           <th>{{team.name}}</th>
           <th>{{team.country}}</th>
-          <th><p *ngFor='let player of team.players'>player.name</p></th>
+          <th><p *ngFor='let player of team.players'>{{player.name}}</p></th>
         </tr>
       </tbody>
     </table>
